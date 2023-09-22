@@ -2,6 +2,10 @@
 
 # heading 1
 <p> HELLO </p>
+**Bold Text** 
+or __Bold Text__
+*Italic Text* 
+or _Italic Text_
 
 ## heading 2
 ### heading 3
