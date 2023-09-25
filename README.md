@@ -1,12 +1,12 @@
 # qgao0257_9103_tu3
 
-# heading 1
-<p> HELLO </p>
+# Quiz 8
+<p> Qianchun Gao </p>
 
 **Bold Text** or __Bold Text__
 *Italic Text* or _Italic Text_
 
-## heading 2
+## Part 1: Imaging Technique Inspiration
 
 - Item 1
 - Item 2
@@ -17,10 +17,11 @@
 2. Second Item
 3. Third Item
 
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg
-Links to an external site.)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-### heading 3
+### Part 2: Coding Technique Exploration
+
+<>
 #### heading 4
 ##### heading 5
 ###### heading 6
