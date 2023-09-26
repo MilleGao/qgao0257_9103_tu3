@@ -17,7 +17,10 @@
 2. Second Item
 3. Third Item
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) -->
+![First screenshot of inspiration](readmeImages/Screenshot1.png)
+![Second screenshot of inspiration](readmeImages/Screenshot2.png)
+![Third screenshot of inspiration](readmeImages/Screenshot3.png)
 
 ### Part 2: Coding Technique Exploration
 
