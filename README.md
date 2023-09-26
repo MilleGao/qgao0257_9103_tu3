@@ -15,13 +15,13 @@ Comparing the three images shown below, I can also look at the video link to see
 
 ### Part 2: Coding Technique Exploration
 - One technique is able to **draw circles in random positions** in the canvas, giving set colours and sizes and generated positions, and perhaps achieve this step of generating with random circles like the inspiration.
-  - ![First screenshot of CodingTech](readmeImages/ScreenshotP2/1.png)
+  - ![First screenshot of CodingTech](readmeImages/Screenshot4.png)
     - Retrieved from: https://happycoding.io/tutorials/p5js/creating-classes/circle-packing 
 
 - Another is to generate a shape that **moves on a curve**. While generating circles, circles needs to move **towards the boundaries** of the different coloured elements within the artwork. This coding technique only moves one circle in one curve, to achieve what is shown in the video in Part 1, more curves and paths data need to be calculated.
-  - ![Second screenshot of CodingTech](readmeImages/ScreenshotP2/2.png)
+  - ![Second screenshot of CodingTech](readmeImages/Screenshot5.png)
     - Retrieved from: https://p5js.org/examples/motion-moving-on-curves.html  
-    
+
 #### heading 4
 ##### heading 5
 ###### heading 6
