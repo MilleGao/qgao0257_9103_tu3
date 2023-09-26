@@ -8,23 +8,17 @@
 
 ## Part 1: Imaging Technique Inspiration
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+Comparing the three images shown below, I can also look at the video link to see a more intuitive change in its dynamics, which utilises curved strips, and circles. These techniques are regularly drawn in specific areas, and then follow different directions of the path to eventually reveal a clear image of the whale. I like the simplicity of this artwork without losing the creativity, even if it doesn't use complicated and difficult techniques it blends well with the image.
 
-1. First Item
-2. Second Item
-3. Third Item
-
-<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) -->
-![First screenshot of inspiration](readmeImages/Screenshot1.png)
-![Second screenshot of inspiration](readmeImages/Screenshot2.png)
-![Third screenshot of inspiration](readmeImages/Screenshot3.png)
+- Artwork shown at 1:37,
+- Video Link https://www.youtube.com/watch?v=qtPi0JvmWbs&ab_channel=HaoHua
+1. ![First screenshot of inspiration](readmeImages/Screenshot1.png)
+2. ![Second screenshot of inspiration](readmeImages/Screenshot2.png)
+3. ![Third screenshot of inspiration](readmeImages/Screenshot3.png)
 
 ### Part 2: Coding Technique Exploration
 
-<>
+- 
 #### heading 4
 ##### heading 5
 ###### heading 6
