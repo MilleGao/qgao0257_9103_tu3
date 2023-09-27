@@ -21,7 +21,3 @@ Comparing the three images shown below, I can also look at the video link to see
 - Another is to generate a shape that **moves on a curve**. While generating circles, circles needs to move **towards the boundaries** of the different coloured elements within the artwork. This coding technique only moves one circle in one curve, to achieve what is shown in the video in Part 1, more curves and paths data need to be calculated.
   - ![Second screenshot of CodingTech](readmeImages/Screenshot5.png)
     - Retrieved from: https://p5js.org/examples/motion-moving-on-curves.html  
-
-#### heading 4
-##### heading 5
-###### heading 6
